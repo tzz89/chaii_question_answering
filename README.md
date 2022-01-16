@@ -19,5 +19,5 @@ Test out the model on huggingface spaces!
 https://huggingface.co/spaces/wolfrage89/chaii_spaces
 
 <p align="center">
-<img src="assets\chaii_qa.jpg" height="270px" width="470px">
+<img src="assets\chaii_qa.JPG" height="270px" width="470px">
 </p>
