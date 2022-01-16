@@ -6,12 +6,12 @@ One of the task of this competition is mainly on extractive question and answeri
 
 
 ## kaggle training scripts
-training: https://www.kaggle.com/georgeteo89/chaii-hindi-tamil-training
-inference: https://www.kaggle.com/georgeteo89/chaii-hindi-tamil-inference
+1. training: https://www.kaggle.com/georgeteo89/chaii-hindi-tamil-training
+2. inference: https://www.kaggle.com/georgeteo89/chaii-hindi-tamil-inference
 
 ## Huggingface spaces
 Test out the model on huggingface spaces!
-** do take note that inference time will be long 3-5mins as the model is over 2GB in size
+- do take note that inference time will be long 3-5mins as the model is over 2GB in size
 
 1. Randomly generates context and question using the "random" button
 2. Extract the answer using the "answer" button
